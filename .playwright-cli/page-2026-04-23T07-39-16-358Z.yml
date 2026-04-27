@@ -1,0 +1,24 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: 아이디
+        - textbox "아이디" [ref=e12]
+      - generic [ref=e13]:
+        - generic [ref=e14]: 비밀번호
+        - textbox "비밀번호" [ref=e15]
+      - generic [ref=e18] [cursor=pointer]:
+        - checkbox "아이디 기억하기" [ref=e19]
+        - text: 아이디 기억하기
+      - button "로그인" [ref=e20] [cursor=pointer]
+  - generic [ref=e21]:
+    - text: 위드설리반의 원활한 사용을 위해서는 크롬 또는 사파리 browser를 이용하여 주시기를 권장합니다.
+    - link [ref=e22] [cursor=pointer]:
+      - /url: https://www.google.co.kr/chrome/browser/
+      - img [ref=e23]
+    - img [ref=e24]
+  - paragraph
+  - generic [ref=e26]:
+    - text: "2024"
+    - strong [ref=e27]: 위드설리반

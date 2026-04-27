@@ -1,0 +1,5 @@
+- dialog "로그인 실패" [ref=e2]:
+  - heading "로그인 실패" [level=2] [ref=e6]
+  - generic [ref=e7]: "정상적이지 않은 방법으로 접근하였습니다.\x1c"
+  - text: "!"
+  - button "OK" [active] [ref=e9] [cursor=pointer]
